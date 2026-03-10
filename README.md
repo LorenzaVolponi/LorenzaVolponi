@@ -1,8 +1,3 @@
-<!-- 🎨 Banner Premium com Animação -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0  :f5c211,100:f5a623&height=180&section=header&text=Lorenza%20Volponi&fontSize=42&fontColor=000&animation=fadeIn&fontAlignY=35"/>
-<div align="center">
-
 # 🌟 Lorenza Volponi  
 ### 🤖 AI Orchestrator | 🏗️ SaaS Builder | 🔐 AI Compliance Specialist | 🗄️ Data Architecture Engineer
 
